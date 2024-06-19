@@ -23,7 +23,7 @@ I created a dashboard using Power BI. The project involves connecting to a datab
 
 ## Screenshot
 
-![Dashboard Screenshot]((https://github.com/Sattusss/Global_PowerBI_DashBoard/blob/main/Screenshot%202024-06-19%20155300.png))
+![Dashboard Screenshot](https://github.com/Sattusss/Global_PowerBI_DashBoard/blob/main/img.png)
 
 ## Getting Started
 
