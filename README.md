@@ -21,6 +21,10 @@ I created a dashboard using Power BI. The project involves connecting to a datab
     - Designing and creating a user-friendly and interactive dashboard.
     - Visualizing data insights through various Power BI visuals.
 
+## Screenshot
+
+![Dashboard Screenshot]((https://github.com/Sattusss/Global_PowerBI_DashBoard/blob/main/Screenshot%202024-06-19%20155300.png))
+
 ## Getting Started
 
 ### Prerequisites
