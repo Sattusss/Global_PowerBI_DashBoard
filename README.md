@@ -32,7 +32,7 @@ I created a dashboard using Power BI. The project involves connecting to a datab
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+    [git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/Sattusss/Global_PowerBI_DashBoard)
     ```
 
 2. **Open the Power BI File**:
